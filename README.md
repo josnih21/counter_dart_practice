@@ -1,6 +1,6 @@
 # contador
 
-A new Flutter application.
+Test project for flutter practicce.
 
 ## Getting Started
 
